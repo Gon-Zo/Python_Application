@@ -9,3 +9,8 @@ str = "나는 문자"
 
 print(str)
 
+# 불리언 자료형
+
+bool = True
+
+print(bool)
