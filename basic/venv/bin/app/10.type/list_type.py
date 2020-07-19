@@ -7,4 +7,17 @@ array.sort()
 
 print(array)
 
+# list 추가
+array.append(100)
 
+print(array)
+
+# list 삭제
+del array[0]
+
+print(array)
+
+# list 원소 바꾸기
+array[0] = 1
+
+print(array)
